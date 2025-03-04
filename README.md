@@ -14,7 +14,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/rsdashman/pls-dont-c
 MakeWindow({
   Hub = {
     Title = "Th4mKrsLib",
-    Animation = "by : redz9999"
+    Animation = "by : skibidi edit from Redzhub"
   },
   Key = {
     KeySystem = false,
@@ -33,8 +33,8 @@ MakeWindow({
 
 --[[
   Hub = {
-    Title = "REDz HUB" -- <string> Title of your script
-    Animation = "by : redz9999" -- <string> Add text to your HUB animation
+    Title = "idk bro" -- <string> Title of your script
+    Animation = "by : [u name]" -- <string> Add text to your HUB animation
   },
   Key = {
     KeySystem = <boolean> Adds a key system
@@ -91,7 +91,7 @@ MakeNotifi({
 })
 
 --[[
-  Title = "REDz HUB" <string> notification title
+  Title = "skibidi" <string> notification title
   Text = "Notification Testing" <string> notification description
   Time = 5 <number> notification time
 ]]
@@ -227,7 +227,7 @@ AddTextBox(Main, {
 
 --[[
   Name = "TextBox Test" <string> Text box name
-  Default = "redz" <string> default text
+  Default = "skibidi" <string> default text
   PlaceholderText = "hub" <string> text that will show when the checkbox has no text
   ClearText = true <boolean> does not delete text when you open the text box
   Callback = function(Value)
@@ -240,7 +240,7 @@ AddTextBox(Main, {
 ```lua
 local Dropdown = AddDropdown(Main, {
   Name = "Dropdown Test",
-  Options = {"1", "2", "3"},
+  Options = {"skibidi", "123", "toilet"},
   Default = "2",
   Callback = function(Value)
     
@@ -297,7 +297,7 @@ SetParagraph(Paragraph, {"Paragraph", ":>"})
 
 ## Creating a Label
 ```lua
-local Label = AddTextLabel(Main, "AutoFarm")
+local Label = AddTextLabel(Main, "aimbot in arsenal")
 
 --[[
   <string> Text
@@ -306,7 +306,7 @@ local Label = AddTextLabel(Main, "AutoFarm")
 
 ## Creating a Set Label
 ```lua
-SetLabel(Label, "HI")
+SetLabel(Label, "script")
 
 --[[
   <string> new Text
@@ -357,7 +357,7 @@ UpdateSlider(Slider, 25)
 
 ## Update DropDown
 ```lua
-UpdateDropdown(Dropdown, {"um", "hello", "redzhub"})
+UpdateDropdown(Dropdown, {"Edited -> th4m", "skided", "creds -> redzhub"})
 
 --[[
   {"u ", "hello", "redzhub"} <table> new dropdown menu options
