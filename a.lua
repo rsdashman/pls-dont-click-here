@@ -1,5 +1,5 @@
 local Admins = {
-    "kit_cynALT",
+    "nppbzx",
     "juju_dupix1302",
     "nolyhaha",
     "Ana123",
